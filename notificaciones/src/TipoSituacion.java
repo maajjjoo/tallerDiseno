@@ -1,0 +1,8 @@
+package notificaciones.src;
+
+public enum TipoSituacion {
+    PUBLICACION_CALIFICACIONES,
+    RECORDATORIO_PAGO_MATRICULA,
+    AVISO_CANCELACION_CLASE,
+    CONFIRMACION_INSCRIPCION_EVENTO
+}
